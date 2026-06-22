@@ -1,24 +1,11 @@
 # ECONMAC Indonesia Macroeconomic Dashboard
 
-Welcome to the group repository for our Macroeconomics assignment! This repository contains all the necessary data and the pre-built Excel model for the "Aggregate Demand and GDP Dashboard" project, focusing on the economy of **Indonesia**.
+Welcome to the group repository for our Macroeconomics assignment on the Aggregate Demand and GDP Dashboard. This repository serves as the central storage for our macroeconomic data and the pre-built Excel model for the Indonesian economy. 
 
-## What is this place?
-GitHub is a platform where people store and share files (like a very advanced Google Drive). You don't need to know how to code to download our work!
+GitHub functions as a robust version control and storage platform. You do not need programming experience to retrieve our work. The repository automates the initial data gathering by pulling quarterly macroeconomic metrics from the FRED database and structuring them into a formula-driven Excel file.
 
-This repository has already handled the hard part: pulling all the quarterly macroeconomic data from the FRED database and structuring it into a working Excel file with all the correct formulas.
+The repository contains three primary components that constitute our research foundation. The master Excel workbook, named ECONMAC_Indonesia_Dashboard.xlsx, holds all cleaned data, growth rate calculations, expenditure shares, contributions, and welfare indicators. The data directory contains the raw CSV file extracted directly from the FRED database. Finally, the instructions directory houses the original assignment prompt in both PDF and text formats. These files ensure all team members have access to the same methodological baseline.
 
-## What's in here?
-- **`ECONMAC_Indonesia_Dashboard.xlsx`**: The master Excel workbook. **This is the file you want to download.** It contains all our clean data, the growth rate calculations, expenditure shares, contributions, and welfare indicators—all pre-calculated with exact Excel formulas.
-- **`data/`**: Contains the `raw_data.csv` which is the direct data pull from the FRED database.
-- **`instructions/`**: Contains the original PDF instructions for the assignment and a text-based version for easy reading.
+To retrieve the master Excel workbook, navigate to the file list and select the ECONMAC_Indonesia_Dashboard.xlsx file. Click the download button located on the right side of the interface to save the raw file locally. Once downloaded, open the file using Microsoft Excel to interact with the dynamic formulas.
 
-## How to Download the Excel File
-1. Click on the `ECONMAC_Indonesia_Dashboard.xlsx` file in the list above.
-2. On the right side of the screen, click the **Download raw file** button (it looks like a small cloud with a downward arrow or simply says "Download").
-3. Open it in Microsoft Excel on your computer.
-
-## Next Steps for the Group
-The data gathering and formula calculations are completely done! Our next steps are:
-1. Open the Excel file and navigate to the **Dashboard** sheet.
-2. Insert the required charts (GDP Trend, Growth, Expenditure Shares, etc.) using the data from the other sheets.
-3. Write the 500- to 800-word macroeconomic commentary answering the 9 questions in the assignment prompt.
+The data extraction and formula integration phases are complete, allowing the group to proceed to visual analysis and interpretation. We must first navigate to the Dashboard sheet to construct the required visual trends, including the GDP growth and expenditure share charts. Subsequently, we will draft the 500- to 800-word macroeconomic commentary that addresses the nine analytical questions outlined in the assignment prompt. This commentary will serve as the final interpretive layer of our macroeconomic dashboard.
